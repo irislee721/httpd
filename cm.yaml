@@ -7,11 +7,11 @@ data:
     <!DOCTYPE html>
     <html lang="en">
       <head>
-        <title>From config map</title>
+        <title>AWS on Cloud</title>
       </head>
       <body>
       
-        <h1>Loaded from config map!</h1>
+        <h1>Loaded from AWS on Cloud!</h1>
       
       </body>
     </html>
