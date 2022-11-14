@@ -7,11 +7,11 @@ data:
     <!DOCTYPE html>
     <html lang="en">
       <head>
-        <title>From config map</title>
+        <title>MetaAge on Premise!</title>
       </head>
       <body>
       
-        <h1>Loaded from config map!</h1>
+        <h1>Loaded from MetaAge on Premise!</h1>
       
       </body>
     </html>
