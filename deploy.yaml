@@ -23,8 +23,7 @@ spec:
             defaultMode: 420
       containers:
         - name: httpd
-          image: >-
-            image-registry.openshift-image-registry.svc:5000/openshift/httpd
+          image: quay.io/ahau/httpd
           ports:
             - containerPort: 8080
               protocol: TCP
